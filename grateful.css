@@ -1,10 +1,10 @@
 ﻿h1 {text-align: center;
-font-family: 'Ubuntu', sans-serif;
-color:#f26452}
+font-family: 'Ubuntu', sans-serif;}
 ol{padding:10px;
   margin:25px;
 }
-.ubuntu-font {font-family: 'Ubuntu', sans-serif;}
+.ubuntu-font {font-family: 'Ubuntu', sans-serif;
+color:#f26452;}
 form{padding: 10px;
 margin: 10px;
 font-family: 'Ubuntu', sans-serif;
